@@ -9,7 +9,7 @@ Jinja2==3.1.2
 MarkupSafe==2.1.2
 nwdiag==3.0.0
 Pillow==9.5.0
-reportlab==3.6.13
+reportlab==4.0.4
 seqdiag==3.0.0
 webcolors==1.13
 Werkzeug==2.3.2
