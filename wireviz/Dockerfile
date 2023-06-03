@@ -1,4 +1,4 @@
-FROM python:3.11.0-alpine3.16
+FROM python:3.11.3-alpine3.16
 
 RUN addgroup -g 1000 kroki && adduser -D -G kroki -u 1000 kroki
 
