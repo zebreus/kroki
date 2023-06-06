@@ -23,6 +23,6 @@
     "chai": "^4.3.4",
     "dirty-chai": "^2.0.1",
     "pngjs": "^7.0.0",
-    "standard": "17.0.0"
+    "standard": "17.1.0"
   }
 }
